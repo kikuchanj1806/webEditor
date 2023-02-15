@@ -43,7 +43,7 @@ function LaunguageManager() {
       </html>`;
 
   useEffect(() => {
-    setTimeout(() => {}, 500);
+    setTimeout(() => { }, 500);
     updateHtmlStrorage(html);
     updateCssStrorage(css);
     updateJsStrorage(js);

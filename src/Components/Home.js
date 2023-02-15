@@ -24,13 +24,13 @@ function Home() {
     left: 0,
     right: 0,
     margin: "auto",
-    top: "90px",
+    top: "175px",
     position: "absolute",
   };
 
   const shape2 = {
     right: "380px",
-    top: "280px",
+    top: "350px",
     position: "absolute",
   };
 
@@ -42,7 +42,7 @@ function Home() {
 
   const shape6 = {
     right: "272px",
-    bottom: "0px",
+    bottom: "100px",
     position: "absolute",
   };
 

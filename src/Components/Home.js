@@ -91,23 +91,6 @@ function Home() {
             <Button variant="primary" style={btnStyle} as={Link} to="/web">
               Web Editor
             </Button>
-
-            <h2 style={{ color: "#f0c19e", paddingTop: "70px" }}>
-              Generate README in Seconds
-            </h2>
-            <h5
-              style={{
-                textAlign: "justify",
-                color: "rgb(154 179 205)",
-                paddingTop: "10px",
-              }}
-            >
-              Online markdown editor, with custom toolbar to help you make your
-              readme easily.
-            </h5>
-            <Button variant="primary" style={btnStyle} as={Link} to="/markdown">
-              Markdown Editor
-            </Button>
           </Col>
         </Row>
       </Container>
